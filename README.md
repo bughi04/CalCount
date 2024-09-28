@@ -4,4 +4,4 @@ This program implements a simple meal management system using C++. It contains c
 - Display Information: Each ingredient's name and its calorie count can be displayed.
 - Basic File Operations: The program includes functionality for reading and writing ingredient data to and from files, supporting persistent data storage.
 This program serves as a basic foundation for a nutrition management application, where users can track ingredients and their nutritional content.
-## To learn how the program works/behaves and run it yourself, please check the "UsageGuide.pdf" file in my project!
+### To learn how the program works/behaves and run it yourself, please check the "UsageGuide.pdf" file in my project!

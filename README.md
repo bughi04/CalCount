@@ -1,4 +1,4 @@
-# CalCount
+# CountX
 This program implements a simple meal management system using C++. It contains classes for managing ingredients, allowing users to either add, search, and display details of a few ingredients with their associated calorie values, or to simply add their own custom value. The main features include:
 - Ingredient Management: Users can add new ingredients along with their calorie information and prevent duplicate entries.
 - Display Information: Each ingredient's name and its calorie count can be displayed.
